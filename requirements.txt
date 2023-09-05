@@ -1,0 +1,5 @@
+# requirements.txt
+# This file specifies the Python version required for your project.
+
+# Python Version
+python==3.10.6
